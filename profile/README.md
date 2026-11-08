@@ -1,6 +1,6 @@
 # Welcome to EzyLabs
 
-![EzyLabs banner](./ezylabs-banner.png)
+![EzyLabs banner](./download.png)
 
 We build Python tools and bots for the Yapper community.
 
